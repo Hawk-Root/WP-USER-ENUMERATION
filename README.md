@@ -14,7 +14,7 @@ Here are detailed steps to set up a safe and controlled environment for testing 
 
 ## Mitigation Strategies 💡
 
-We propose several techniques and configurations to help prevent or mitigate the risks associated with User Enumeration, including:
+There's several techniques and configurations to help prevent or mitigate the risks associated with User Enumeration, including:
 
 - Customizing error messages to be less informative about the existence or non-existence of user accounts.
 - Restricting access to user information via the `functions.php` file in WordPress themes.
